@@ -1,5 +1,5 @@
 class Utils{
   static getClientToken(){
-    return "Token";
+    return "Token test";
   }
 }
