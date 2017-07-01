@@ -1,0 +1,14 @@
+{
+  "name": "profile-o-mat",
+  "version": "1.0.0",
+  "description": "Discord Bot for the Jugend Hackt Project \"Profile-O-Mat\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "derNiklaas",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
